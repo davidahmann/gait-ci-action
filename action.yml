@@ -1,5 +1,5 @@
 name: "Gait Regress"
-description: "Enforce safe AI tool use in CI: install verified Gait, run deterministic regressions and policy tests, and upload evidence artifacts."
+description: "Enforce AI policy in CI with deterministic checks and portable evidence artifacts."
 author: "David Ahmann"
 branding:
   icon: "shield"
