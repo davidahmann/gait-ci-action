@@ -1,5 +1,5 @@
 name: "Gait Regress"
-description: "Download verified Gait binaries and run deterministic regress or policy-test checks."
+description: "Enforce safe AI tool use in CI: install verified Gait, run deterministic regressions and policy tests, and upload evidence artifacts."
 author: "David Ahmann"
 branding:
   icon: "shield"
