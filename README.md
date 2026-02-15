@@ -1,5 +1,7 @@
 # gait-ci-action
 
+Enforce safe AI tool use in CI: install verified Gait, run deterministic regressions and policy tests, and upload evidence artifacts.
+
 GitHub Action for deterministic Gait CI checks.
 
 This action downloads a released `gait` binary, verifies checksums, runs either `gait regress run` or `gait policy test`, and optionally uploads generated artifacts.
